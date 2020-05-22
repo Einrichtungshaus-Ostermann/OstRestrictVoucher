@@ -81,10 +81,11 @@ class Update
      */
     public function update($version)
     {
+        // always udpate attributes
+        $this->updateAttributes();
+
         // switch old version
         switch ($version) {
-            case '0.0.0':
-                $this->updateAttributes();
         }
     }
 

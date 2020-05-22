@@ -8,6 +8,9 @@
  * 1.0.0
  * - initial release
  *
+ * 1.0.1
+ * - pre-version - added category whitelist
+ *
  * @package   OstRestrictVoucher
  *
  * @author    Eike Brandt-Warneke <e.brandt-warneke@ostermann.de>
